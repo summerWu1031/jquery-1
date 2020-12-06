@@ -1,5 +1,1 @@
-jQuery('.test').find('.child').addClass('red')
-jQuery('.test').children().print()
-jQuery('.test').find('.child').end().addClass('red')
-jQuery('.test').siblings().print()
-jQuery('.test').next().print()
+$('.test').find('child').print()
